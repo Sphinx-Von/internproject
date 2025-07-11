@@ -4,7 +4,7 @@ A responsive and dynamic admin dashboard built with **React** and **Tailwind CSS
 
 ---
 ## 📸 Screenshots
-
+[!Dashboard](https://github.com/user-attachments/assets/e2071ecb-0535-4b1d-bcf3-447bd8f48f0d)
 
 ## 🚀 Features
 
